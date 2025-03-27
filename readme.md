@@ -66,6 +66,7 @@ Unauthorized access violates Lumon policy
 4. USE COMMAND BUTTONS FOR FILE OPERATIONS
 5. REPORT ANY DEFIANT NUMBERS IMMEDIATELY
 </div>
+
 ## <span style="color: #0f0;">▲</span> SECURITY NOTICE
 
 <div style="border: 1px solid #f55; padding: 10px; margin: 15px 0; background-color: rgba(255, 0, 0, 0.05); font-family: 'Courier New', monospace; color: #f55;">
