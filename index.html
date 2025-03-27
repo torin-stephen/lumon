@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumon Industries MDR Terminal</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loginScreen" class="login-screen">
+        <div class="login-container">
+            <div class="welcome-message">WELCOME, MARK S<span class="blinking-underscore">_</span></div>
+            <input type="password" id="passkeyInput" class="login-input" placeholder="ENTER PASSKEY">
+            <button id="loginBtn" class="login-button">INITIALIZE</button>
+        </div>
+    </div>
 
+    <div id="mainTerminal" class="main-terminal" style="display:none;">
+        <div class="header">
+            <div class="glitch" data-text="LUMON INDUSTRIES">LUMON INDUSTRIES</div>
+            <div>MDR TERMINAL v4.2.7</div>
+        </div>
+
+        <div class="terminal">
+            <div class="file-browser">
+                <div class="file-list" id="fileList"></div>
+                <div class="file-preview" id="filePreview">
+                    <div style="text-align: center; margin-top: 50px;">SELECT A FILE TO PREVIEW</div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <div>
+                    <button class="button" id="newBtn">NEW FILE</button>
+                    <button class="button" id="editBtn">EDIT</button>
+                </div>
+                <div>
+                    <button class="button" id="prevBtn">◄ PREV</button>
+                    <button class="button" id="nextBtn">NEXT ►</button>
+                </div>
+                <div class="status-bar" id="statusBar">READY | FILES: 0 | SELECTED: NONE</div>
+                <div>
+                    <button class="button" id="deleteBtn">DELETE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
