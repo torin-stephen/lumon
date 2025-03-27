@@ -50,7 +50,7 @@ AS SEEN IN SEVERANCE (2022)
 
 3. OPEN IN BROWSER:
    Open index.html in your preferred browser
-
+```
 
 WARNING: Only proceed if you have proper clearance
 Unauthorized access violates Lumon policy
