@@ -56,20 +56,20 @@ WARNING: Only proceed if you have proper clearance
 Unauthorized access violates Lumon policy
 </div>
 
-<span style="color: #0f0;">▲</span> USAGE INSTRUCTIONS
+## <span style="color: #0f0;">▲</span> USAGE INSTRUCTIONS
 
 <div style="border-left: 2px solid #0f0; padding-left: 15px; margin-left: 5px; font-family: 'Courier New', monospace;">
-Copy
+
 1. ENTER PASSKEY "123" AT LOGIN
 2. BROWSE FILES USING PREV/NEXT BUTTONS
 3. SELECT FILES TO VIEW CONTENTS
 4. USE COMMAND BUTTONS FOR FILE OPERATIONS
 5. REPORT ANY DEFIANT NUMBERS IMMEDIATELY
 </div>
-<span style="color: #0f0;">▲</span> SECURITY NOTICE
+## <span style="color: #0f0;">▲</span> SECURITY NOTICE
 
 <div style="border: 1px solid #f55; padding: 10px; margin: 15px 0; background-color: rgba(255, 0, 0, 0.05); font-family: 'Courier New', monospace; color: #f55;">
-Copy
+
 ! RESTRICTED ACCESS !
 THIS TERMINAL CONTAINS CLASSIFIED LUMON MATERIALS
 UNAUTHORIZED USE WILL RESULT IN:
