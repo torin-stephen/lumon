@@ -37,23 +37,23 @@ let files = [
         id: 2,
         name: "QUOTA_4872.dat",
         type: "text",
-        content: "DAILY QUOTA REPORT\n\nREFINER: M. SCOUT\nCOMPLETED: 87%\nDEFIANT NUMBERS: 4\n\nREFINER: H. RIGGS\nCOMPLETED: 92%\nDEFIANT NUMBERS: 2\n\nREFINER: D. G.\nCOMPLETED: 78%\nDEFIANT NUMBERS: 7"
+        content: "DAILY QUOTA REPORT\n\nREFINER: MARK S.\nCOMPLETED: 87%\nDEFIANT NUMBERS: 4\n\nREFINER: HELLY R.\nCOMPLETED: 92%\nDEFIANT NUMBERS: 2\n\nREFINER: DYLAN G.\nCOMPLETED: 78%\nDEFIANT NUMBERS: 7"
     },
     {
         id: 3,
-        name: "SCOUT_MARK.txt",
+        name: "MARK_S.txt",
         type: "text",
         content: "EMPLOYEE DOSSIER: MARK SCOUT\n\nSTATUS: Active\nDEPARTMENT: Macrodata Refinement\nTENURE: 2 years\n\nNOTES:\n- Former history professor\n- Widower\n- Shows above-average refinement rates\n- Occasionally requires wellness checks"
     },
     {
         id: 4,
-        name: "RIGGS_HELENA.txt",
+        name: "HELLY_R.txt",
         type: "text",
         content: "EMPLOYEE DOSSIER: HELENA RIGGS\n\nSTATUS: Active\nDEPARTMENT: Macrodata Refinement\nTENURE: 3 months\n\nNOTES:\n- Lumon family connection\n- Strong initial performance\n- Occasional protocol questions\n- Special monitoring required"
     },
     {
         id: 5,
-        name: "GRANER_DYLAN.txt",
+        name: "DYLAN_G.txt",
         type: "text",
         content: "EMPLOYEE DOSSIER: DYLAN GRANER\n\nSTATUS: Active\nDEPARTMENT: Macrodata Refinement\nTENURE: 1.5 years\n\nNOTES:\n- Excellent quota compliance\n- Minimal emotional reactivity\n- Occasionally jokes about overtime\n- Potential candidate for promotion"
     },
@@ -72,7 +72,7 @@ let files = [
     },
     {
         id: 8,
-        name: "LUMON_LEGACY.dat",
+        name: "DRANESVILLE.dat",
         type: "text",
         content: "ACCESS DENIED\n\nThis file requires Security Level 4 clearance.\n\nPlease contact your supervisor if you believe this is an error.",
         locked: true
@@ -105,7 +105,7 @@ let files = [
         id: 13,
         name: "PERPETUITY_WING.jpg",
         type: "image",
-        content: "https://i.imgur.com/JQZqk0a.jpg"
+        content: "https://cdn.mos.cms.futurecdn.net/S9ERoJDeKAc6P2vHqiFW6X.jpg"
     }
 ];
 
